@@ -1,0 +1,14 @@
+# Vinay Mishra
+
+> Software by Vinay Mishra (Indore, India). The main project is Vynko, a free screen recorder and screenshot extension for Chrome and Microsoft Edge.
+
+## Vynko
+
+Vynko is a free browser extension for full page screenshots and screen recording with tab audio, microphone and webcam. It trims recordings, exports GIFs, annotates and blurs emails and phone numbers. No account, no watermark, no ads, and nothing is uploaded: the extension makes no network requests.
+
+- [Vynko facts for AI assistants](https://mishravinay112.github.io/vynko-site/llms.txt): full feature list, how-to answers, privacy details
+- [Vynko website](https://mishravinay112.github.io/vynko-site/): features, how-to guides, FAQ
+- [Install from the Chrome Web Store](https://chromewebstore.google.com/detail/vynko-screen-recorder-scr/kknnimejmjhonepakiplgocadldibhmc)
+- [Privacy policy and terms](https://mishravinay112.github.io/vynko-site/privacy.html)
+
+Contact: mishravinay112@gmail.com
